@@ -1,6 +1,6 @@
 # AR Marker
 
-<center><video src="https://github.com/user-attachments/assets/fe2f6330-b16a-40ee-96cb-4525eea8fe82" width="200" autoplay loop muted>Your browser does not support the video tag.</video></center>
+<video src="https://github.com/user-attachments/assets/fe2f6330-b16a-40ee-96cb-4525eea8fe82" width="200" autoplay loop muted>Your browser does not support the video tag.</video>
 
 <details>
 <summary><strong>🇰🇷 Korean (한국어) - Click to expand</strong></summary>
