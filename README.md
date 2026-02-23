@@ -1,6 +1,6 @@
 # AR Marker
 
-<video src="screenshot.mp4" width="300" autoplay loop></video>
+<video src="https://raw.githubusercontent.com/juliendkim/AR-Marker/main/screenshot.mp4" controls="controls" style="max-width: 300px;" autoplay loop></video>
 
 <details>
 <summary><strong>🇰🇷 Korean (한국어) - Click to expand</strong></summary>
