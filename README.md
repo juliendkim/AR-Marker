@@ -1,6 +1,8 @@
 # AR Marker
 
-<video src="https://raw.githubusercontent.com/juliendkim/AR-Marker/main/screenshot.mp4" controls="controls" style="max-width: 300px;" autoplay loop></video>
+<video src="https://raw.githubusercontent.com/juliendkim/AR-Marker/main/screenshot.mp4" controls="controls" style="max-width: 300px;" autoplay loop playsinline>
+  Your browser does not support the video tag.
+</video>
 
 <details>
 <summary><strong>🇰🇷 Korean (한국어) - Click to expand</strong></summary>
