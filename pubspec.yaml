@@ -1,0 +1,31 @@
+name: ar_marker
+description: "AR Marker tracking app - shows GLB models on detected image markers"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  ar_flutter_plugin_plus:
+    git:
+      url: https://github.com/FranzGraaf/ar_flutter_plugin_plus.git
+      ref: main
+  vector_math: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/marker/
+    - assets/model/
